@@ -1,0 +1,52 @@
+@import "../../../sassGlobal/colors.scss";
+.mmcUI__avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: 600;
+  border-radius: 50%;
+
+  user-select: none;
+
+  // === Sizes ===
+
+  &--small {
+    width: 2rem;
+    height: 2rem;
+    font-size: 1rem;
+  }
+  &--medium {
+    width: 3rem;
+    height: 3rem;
+    font-size: 1.5rem;
+  }
+  &--large {
+    width: 4rem;
+    height: 4rem;
+    font-size: 2rem;
+  }
+
+  &--pink {
+    background-color: $pink;
+  }
+  &--red {
+    background-color: $red;
+  }
+  &--lightBlue {
+    background-color: $lightBlue;
+  }
+  &--blue {
+    background-color: $blue;
+  }
+  &--green {
+    background-color: $green;
+  }
+  &--yellow {
+    background-color: $yellow;
+  }
+  &--gray {
+    background-color: $gray;
+  }
+}
