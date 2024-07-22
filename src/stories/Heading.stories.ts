@@ -3,6 +3,7 @@ import { Heading } from "../components";
 
 const meta: Meta = {
   component: Heading,
+  title: "mmcUI/Typography/Heading",
 };
 
 export default meta;

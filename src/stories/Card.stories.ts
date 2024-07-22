@@ -3,6 +3,7 @@ import { Card } from "../components";
 
 const meta: Meta = {
   component: Card,
+  title: "mmcUI/Data Display/Card",
 };
 
 export default meta;

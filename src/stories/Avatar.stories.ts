@@ -3,6 +3,7 @@ import { Avatar } from "../components";
 
 const meta: Meta = {
   component: Avatar,
+  title: "mmcUI/Data Display/Avatar",
 };
 
 export default meta;

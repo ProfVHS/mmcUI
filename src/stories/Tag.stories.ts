@@ -3,6 +3,7 @@ import { Tag } from "../components";
 
 const meta: Meta = {
   component: Tag,
+  title: "mmcUI/Data Display/Tag",
 };
 
 export default meta;

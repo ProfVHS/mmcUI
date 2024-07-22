@@ -1,5 +1,5 @@
 export type color =
-  | "purple"
+  | "pink"
   | "red"
   | "lightBlue"
   | "blue"

@@ -3,6 +3,7 @@ import { Text } from "../components";
 
 const meta: Meta = {
   component: Text,
+  title: "mmcUI/Typography/Text",
 };
 
 export default meta;
