@@ -10,3 +10,4 @@ export { default as Avatar } from "./DataDisplay/Avatar";
 //== Inputs ==//
 export { default as Button } from "./Inputs/Button";
 export { default as Input } from "./Inputs/Input";
+export { default as CartoonButton } from "./Inputs/CartoonButton";

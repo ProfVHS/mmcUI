@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from "@storybook/react";
-import { Input } from "../components";
+import { Input } from "../../components";
 
 const meta: Meta = {
   component: Input,
@@ -11,7 +11,6 @@ type Story = StoryObj<typeof Input>;
 
 export const Default: Story = {
   args: {
-    children: "Button",
-    variant: "normal",
+    placeholder: "Placeholder",
   },
 };
